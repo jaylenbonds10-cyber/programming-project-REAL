@@ -9,4 +9,4 @@ Then lastly, we decided to compare Jobs that are Least and most likely to be tak
 
 In our findings we discover a lot of different jobs that dont require much movement will be taken by AI in the near future.
 
-Too get started veiwing our work click the project file.
+Too get started veiwing our work click the project file and if you want to see the html version of it click the programming project.html.
